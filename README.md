@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sightrade is my instagram username where you can contact me.
+- 📫 Reach me on Instagram @sightrade and Twitter @engineeralok07.
 
 <!---
 engineeralok/engineeralok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
