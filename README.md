@@ -1,77 +1,77 @@
-<!-- GitHub profile README · @engineeralok -->
-
 <div align="center">
 
-# Hi, I'm Alok 👋
+<img src="./assets/terminal-banner.svg" width="100%" alt="Neon terminal banner introducing Alok, Software Engineer" />
 
-### Software Engineer
+<br />
 
-**Full-Stack Development · Mobile Engineering · Cloud & AI**
-
-I build applications and software products — from mobile experiences and web platforms to APIs, databases, and deployment.
-
-[**Portfolio**](https://engineeralok.dev) · [**LinkedIn**](https://www.linkedin.com/in/engineeralok/) · [**Repositories**](https://github.com/engineeralok?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A110C?style=for-the-badge&logo=googlechrome&logoColor=73FFAD)](https://engineeralok.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A110C?style=for-the-badge&logo=linkedin&logoColor=73FFAD)](https://www.linkedin.com/in/engineeralok/)
+[![GitHub](https://img.shields.io/badge/PROJECTS-0A110C?style=for-the-badge&logo=github&logoColor=73FFAD)](https://github.com/engineeralok?tab=repositories)
 
 </div>
 
----
+### `$ cat about.md`
 
-### About
+I'm **Alok**, a Software Engineer based in India. I build mobile applications, full-stack web products, APIs, and cloud-deployed systems. My focus is on practical engineering: clear architecture, reliable integrations, and taking software from idea to deployment.
 
-I'm a software engineer based in India, working across **Flutter**, **modern web development**, and **backend systems**. I enjoy owning the engineering journey from product requirements and architecture through implementation, integrations, and deployment.
+```text
+> focus             Software engineering
+> domains           Mobile • Full-stack • Cloud • AI integrations
+> building          Applications, APIs and SaaS products
+> approach          Design → Build → Test → Deploy → Iterate
+```
 
-I focus on readable code, practical system design, and building software that solves real problems.
+### `$ ls ./toolbox`
 
-- **Mobile:** Cross-platform applications, state management, authentication, and API integrations
-- **Web & backend:** Responsive interfaces, application APIs, and database-backed products
-- **Infrastructure:** Cloud deployment, Docker, and server configuration
-- **Current interests:** SaaS engineering, developer tooling, and AI-powered workflows
-
-### Tech stack
+<div align="center">
 
 **Languages & frameworks**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,react,nextjs,nodejs,python&perline=8" alt="Dart, Flutter, TypeScript, JavaScript, React, Next.js, Node.js, Python" />
-</p>
+<img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,react,nextjs,nodejs,python&perline=8" alt="Dart, Flutter, TypeScript, JavaScript, React, Next.js, Node.js, Python" />
 
 **Databases & infrastructure**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,docker,aws,cloudflare&perline=8" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, AWS, Cloudflare" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,docker,aws,cloudflare&perline=8" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, AWS, Cloudflare" />
 
-### Selected work
+</div>
 
-A few public repositories that illustrate different parts of my engineering work:
+### `$ ls ./selected-work`
 
-| Repository | Focus |
+| Project | Engineering focus |
 |:--|:--|
-| [**Learn with Jiji**](https://github.com/engineeralok/learnwithjiji) | Flutter mobile UI, Riverpod, app navigation, and modular structure |
-| [**Panam Properties**](https://github.com/engineeralok/panam-properties) | TypeScript frontend for a real-estate website |
-| [**RiverPod with Flutter**](https://github.com/engineeralok/RiverPod_with_Flutter) | Flutter state-management patterns |
-| [**Flutter Referral App**](https://github.com/engineeralok/flutter-referral-app-with-firebase) | Flutter and Firebase integration |
+| **[Learn with Jiji](https://github.com/engineeralok/learnwithjiji)** | Flutter, Riverpod, navigation, responsive mobile interfaces |
+| **[Panam Properties](https://github.com/engineeralok/panam-properties)** | TypeScript, frontend development, real-estate web experience |
+| **[RiverPod with Flutter](https://github.com/engineeralok/RiverPod_with_Flutter)** | State management patterns and Flutter architecture |
+| **[Flutter Referral App](https://github.com/engineeralok/flutter-referral-app-with-firebase)** | Flutter and Firebase integration |
 
-> Some client projects and products are private. See my [portfolio](https://engineeralok.dev) for more about my work.
+> Some professional work is private or client-owned. This list features public repositories; read each project's documentation for implementation details.
 
-### What I care about
+### `$ git log --oneline --all`
 
-`Software architecture` · `API design` · `Mobile development` · `Developer experience` · `Cloud deployment` · `AI integrations`
+<div align="center">
+
+<a href="https://github.com/engineeralok">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineeralok&bg_color=0d1117&color=8ee7aa&line=39d376&point=7fffaa&area=true&area_color=1b753e&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
+</a>
 
 <details>
-<summary><strong>GitHub activity</strong></summary>
-<br>
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=engineeralok&show_icons=true&hide_border=true&theme=transparent)
-
+<summary><strong>Show GitHub statistics</strong></summary>
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=engineeralok&show_icons=true&bg_color=0d1117&title_color=74ffa3&text_color=c9d8cf&icon_color=43d882&hide_border=true" alt="GitHub contribution statistics" />
 </details>
+
+</div>
+
+### `$ echo $INTERESTS`
+
+`Software architecture` · `API design` · `Mobile applications` · `Cloud infrastructure` · `AI-powered workflows`
 
 ---
 
 <div align="center">
 
-**Interested in collaborating?**
+<sub>Built with curiosity, maintained with care.</sub>
 
-[engineeralok.dev](https://engineeralok.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/engineeralok/)
+**[engineeralok.dev](https://engineeralok.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/engineeralok/)**
 
 </div>
