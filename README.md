@@ -1,6 +1,5 @@
 <!-- GitHub profile • designed for @engineeralok -->
 
-<!-- 01 / INTRO -->
 <div align="center">
 
 <sub>WELCOME TO MY GITHUB PROFILE</sub>
@@ -17,7 +16,6 @@ Building modern applications, scalable backend systems, and AI-powered software 
 
 <br />
 
-<!-- 02 / TERMINAL (already present in the GitHub repository) -->
 <div align="center">
 
 <img src="./assets/terminal-banner.svg" alt="Alok's animated neon-green terminal profile with a dot-matrix portrait" width="100%" />
@@ -25,9 +23,6 @@ Building modern applications, scalable backend systems, and AI-powered software 
 </div>
 
 <br />
-
-<!-- 03 / CONTRIBUTION SNAKE (requires included GitHub Actions workflow) -->
-### 03 — Contribution snake
 
 <div align="center">
 
@@ -37,16 +32,13 @@ Building modern applications, scalable backend systems, and AI-powered software 
   <img alt="Animated snake traveling through Alok's GitHub contribution calendar" src="https://raw.githubusercontent.com/engineeralok/engineeralok/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>Generated from GitHub contributions. This appears after the snake workflow publishes its first output.</sub>
-
 </div>
 
 <br />
 
-<!-- 04 / REPOSITORIES -->
-### 04 — Selected repositories
+<br />
 
-A small selection of my public work, across mobile engineering and full-stack development.
+A selection of public projects across mobile and full-stack development.
 
 | Project | Engineering focus | Stack |
 | :--- | :--- | :--- |
@@ -59,26 +51,17 @@ A small selection of my public work, across mobile engineering and full-stack de
 
 <br />
 
-<!-- 05 / TECH + ACHIEVEMENTS -->
-### 05 — Technologies & achievements
-
-**Languages and application development**
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,react,nextjs,nodejs,python&perline=8" alt="Dart, Flutter, TypeScript, JavaScript, React, Next.js, Node.js, Python" />
 
 </div>
 
-**Databases and infrastructure**
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,docker,aws,cloudflare&perline=8" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, AWS, Cloudflare" />
 
 </div>
-
-**GitHub milestones**
 
 <div align="center">
 
@@ -88,8 +71,7 @@ A small selection of my public work, across mobile engineering and full-stack de
 
 <br />
 
-<!-- 06 / REST OF THE DETAILS -->
-### 06 — About & activity
+<br />
 
 I'm **Alok**, a software engineer based in India. I work across mobile applications, full-stack web development, APIs and cloud deployment. I enjoy taking ideas through implementation, integration, and delivery.
 
